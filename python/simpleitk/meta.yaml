@@ -1,10 +1,10 @@
 package:
   name: simpleitk
-  version: "0.9.1"
+  version: "0.10.0"
 
 source:
   git_url: http://itk.org/SimpleITK.git
-  git_tag:  v0.9.1
+  git_tag:  fc6bbeaf91dd74ebb294db57ccef8f9bb9e5e6b0
 
 requirements:
   build:

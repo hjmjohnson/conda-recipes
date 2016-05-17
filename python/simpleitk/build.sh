@@ -47,6 +47,6 @@ cmake \
 
 make -j ${CORES}
 cd ${BUILD_DIR}/SimpleITK-build/Wrapping
-${PYTHON} PythonPackage/setup.py install
+${PYTHON} Python/Packaging/setup.py install
 
 
